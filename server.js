@@ -30,7 +30,7 @@ var articleOne = {
                 This is the content for my first article. This is the content for my first article.
                 This is the content for my first article. This is the content for my first article. 
                 This is the content for my first article. This is the content for my first article.  
-                This is the content for my first article. This is the content for my first article. 
+                This is the content for my first article. 
             </p>`
     
 };
